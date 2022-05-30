@@ -1,0 +1,19 @@
+{
+  "name": "playwright-cucumber",
+  "version": "1.0.0",
+  "description": "Learning Playwright",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ankita21gaikwad/playwright-cucumber.git"
+  },
+  "author": "Ankita",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ankita21gaikwad/playwright-cucumber/issues"
+  },
+  "homepage": "https://github.com/ankita21gaikwad/playwright-cucumber#readme"
+}
