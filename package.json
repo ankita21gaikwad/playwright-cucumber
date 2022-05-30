@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/ankita21gaikwad/playwright-cucumber#readme",
   "devDependencies": {
-    "cucumber": "^6.0.7"
+    "cucumber": "^6.0.7",
+    "playwright": "^1.22.2"
   }
 }
