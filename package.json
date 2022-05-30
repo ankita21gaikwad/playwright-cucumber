@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ankita21gaikwad/playwright-cucumber/issues"
   },
-  "homepage": "https://github.com/ankita21gaikwad/playwright-cucumber#readme"
+  "homepage": "https://github.com/ankita21gaikwad/playwright-cucumber#readme",
+  "devDependencies": {
+    "cucumber": "^6.0.7"
+  }
 }
