@@ -8,7 +8,7 @@ Given('user navigates to playwright url', async function (this: OurWorld) {
     await playwrightHomePage.navigateToUrl();
 });
 
-Then('user validates the title of the playwright page', async function (this: OurWorld) {
+Then('user validates the title of the playwright page', {timeout: 60 * 1000},  async function (this: OurWorld) {
     const { page } = this;
     const playwrightHomePage = new PlaywrightHomePage(page);
     await playwrightHomePage.validateTitle();
